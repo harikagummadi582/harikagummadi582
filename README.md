@@ -7,7 +7,7 @@ I like building software that takes repetitive work off people's plates, and I c
 - 🔬 Currently researching: how well pore-pressure models generalize to unseen wells (XGBoost + SHAP)
 - 💼 Open to full-time roles building AI-powered backend systems 
 - 📍 San Francisco, CA
-- 📫 Reach me: [harikagreyson@gmail.com] · [LinkedIn](https://www.linkedin.com/in/harika-gummadi-5b7926238) · [TechTeaSpill](https://www.instagram.com/techteaspill)
+- 📫 Reach me: [harikagreyson@gmail.com](mailto:harikagreyson@gmail.com) · [LinkedIn](https://www.linkedin.com/in/harika-gummadi-5b7926238) · [TechTeaSpill](https://www.instagram.com/techteaspill)
 
 ## 🛠 Languages and Tools
 
@@ -19,9 +19,9 @@ I like building software that takes repetitive work off people's plates, and I c
 
 <img src="https://skillicons.dev/icons?i=fastapi,flask,spring,nodejs,opencv,pytorch,tensorflow" />
 <br>
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
-![SHAP](https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge)
-![M365 Copilot](https://img.shields.io/badge/M365_Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+<img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge" alt="XGBoost" />
+<img src="https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge" alt="SHAP" />
+<img src="https://img.shields.io/badge/M365_Copilot-0078D4?style=for-the-badge" alt="M365 Copilot" />
 
 **Frontend**
 
