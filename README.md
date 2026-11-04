@@ -1,11 +1,11 @@
 # Hi, I'm Harika Gummadi
-**Software Engineer (AI & Backend)** · MS Computer Science @ Northeastern (Dec 2026)
+**Software Engineer (AI & Backend)** · MS Computer Science @ Northeastern (Grad Date: Dec 2026)
 
 I like building software that takes repetitive work off people's plates, and I care that the AI is actually useful, not just impressive in a demo.
 
 - 💬 Ask me about: AI agents, FastAPI / backend systems, NLP & computer vision, hackathons
 - 🔬 Currently researching: how well pore-pressure models generalize to unseen wells (XGBoost + SHAP)
-- 💼 Open to full-time roles building AI-powered backend systems
+- 💼 Open to full-time roles building AI-powered backend systems 
 - 📍 San Francisco, CA
 - 📫 Reach me: [harikagreyson@gmail.com] · [LinkedIn](https://www.linkedin.com/in/harika-gummadi-5b7926238) · [TechTeaSpill](https://www.instagram.com/techteaspill)
 
